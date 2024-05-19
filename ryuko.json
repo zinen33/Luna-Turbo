@@ -1,0 +1,21 @@
+{
+  "author": "ryuko",
+  "developermode": false,
+  "language": "en",
+  "notification": true,
+  "approval": true,
+  "premium": true,
+  "BOTNAME": "🐧愛[ . ]↬ 𝗕𝗢𝗧 𝗟𝗨𝗡𝗔↫",
+  "PREFIX": ".",
+  "OPERATOR": [
+    "100044725279836", 
+    "100013384479798" 
+  ],
+  "ADMINBOT": [
+    "100044725279836", 
+    "100013384479798" 
+  ],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase"
+}

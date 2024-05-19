@@ -1,0 +1,18 @@
+{
+    "name": "ZINO く愛",
+    "ID": "100013384479798",
+    "shield": 3,
+    "coins": 200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 10,
+            "pool": 10,
+            "pet": 0
+        }
+    },
+    "spin": 20,
+    "timeRegister": "02:31:54, 1/2/2024"
+}

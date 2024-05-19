@@ -1,0 +1,118 @@
+{
+  "loginoptions": {
+    "selfListen": false,
+    "selfListenEvent": false,
+    "listenEvents": true,
+    "listenTyping": false,
+    "updatePresence": true,
+    "forceLogin": false,
+    "autoMarkDelivery": true,
+    "autoMarkRead": true,
+    "autoReconnect": true,
+    "logRecordSize": "defaultLogRecordSize",
+    "online": false,
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36"
+  },
+  "DESCRIPTION": "artificial intelligence is the future, and the future is here.",
+  "allowInbox": false,
+  "adminOnly": false,
+  "autoCreateDB": true,
+  "encryptSt": true,
+  "version": "4.0.0",
+  "logs": {
+    "enable": true
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "help": {
+    "autoUnsend": true,
+    "delayUnsend": 60
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "adminNoti": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "math": {
+    "WOLFRAM": "T8J8YV-H265UQ762K"
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyCqox-KXEwDncsuo2HIpE0MF8J7ATln5Vc",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "video": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "audio": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "log": {
+    "enable": true
+  },
+  "DATABASE": {
+    "sqlite": {
+      "storage": "../../botdata/maindata.sqlite"
+    }
+  },
+  "leave": {
+    "status": true,
+    "number": 150
+  },
+  "weather": {
+    "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
+  },
+  "اوامر": {
+    "autoUnsend": true,
+    "delayUnsend": 999999
+  },
+  "فيديو": {
+    "YOUTUBE_API": "AIzaSyBFNMIC7pTPGo2zBxE8JrF0oPpOpxV6KU8"
+  },
+  "مسكر": {
+    "autoUnsend": true,
+    "delayUnsend": 999999
+  },
+  "الرانك": {
+    "autoUnsend": true,
+    "unsendMessageAfter": 5
+  },
+  "نقود": {
+    "cooldownTime": 100
+  },
+  "عمل": {
+    "cooldownTime": 12000000
+  },
+  "الاوامر": {
+    "autoUnsend": false,
+    "delayUnsend": 300
+  },
+  "طقس": {
+    "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
+  },
+  "تجارب": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "تhجارب": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "حماية_الاسم": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "مضاد_خروج": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  }
+}
